@@ -30,8 +30,8 @@ Hi, I'm Rajadurai!
 <hr>
 
 ## 🤝 Connect with me<br>
-<p >
-	<a href="mailto:rajabalasuguna@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p >	
+	👉👉👉👉👉<a href="mailto:rajabalasuguna@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Rajadurai2"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -39,7 +39,7 @@ Hi, I'm Rajadurai!
 
 ## 🛠️ My Favorite Tools
 
-### 👉 Programming languages
+### 💻💻 Programming languages
 
 <p > 
   
@@ -104,9 +104,9 @@ Hi, I'm Rajadurai!
 <summary><b>⚡ Rajadurai's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rajadurai2&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajadurai2" alt="bouaskaoun">
+	<a href="https://github.com/Rajadurai2">
+	<img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rajadurai2&show_icons=true" alt="Rajadurai2">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajadurai2" alt="Rajadurai2">
 	</a>
 	<br/>
 </p>
@@ -115,8 +115,8 @@ Hi, I'm Rajadurai!
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+	<a href="https://github.com/Rajadurai2">
+		<img src="https://activity-graph.herokuapp.com/graph?username=Rajadurai2&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Rajadurai2">
 	</a>
 </p>
 <br/>
@@ -126,7 +126,7 @@ Hi, I'm Rajadurai!
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rajadurai2&langs_count=8&layout=compact" alt="Rajadurai2">
 	</a>
 	<br/>
 <br/>
@@ -159,21 +159,3 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 </table>
 
 ------
-
-[Bouaskaoun](https://github.com/Bouaskaoun)
-
-Last Edited on: 19/07/2022
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
