@@ -29,8 +29,8 @@ Hi, I'm Rajadurai!
 </pre>
 <hr>
 
-## 🤝 Connect with me
-<p align="center">
+## 🤝 Connect with me<br>
+<p >
 	<a href="mailto:rajabalasuguna@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Rajadurai2"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -39,11 +39,23 @@ Hi, I'm Rajadurai!
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### 👉 Programming languages
 
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+<p > 
+  
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+  
+ 
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+</p>
 
 ### 🧰 Frameworks and Libraries
 
@@ -89,12 +101,12 @@ Hi, I'm Rajadurai!
 ## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Rajadurai's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rajadurai2&show_icons=true" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajadurai2" alt="bouaskaoun">
 	</a>
 	<br/>
 </p>
