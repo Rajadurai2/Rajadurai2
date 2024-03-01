@@ -8,7 +8,7 @@ Hi, I'm Rajadurai!
 </h1>
 <p align="center">
 	<a href="https://github.com/Rajadurai2">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=Rajadurai2&label=Profile%20views&color=0e75b6&style=flat" alt="Rajadurai" />
 	</a>
 </p>
 <br/>
@@ -18,16 +18,47 @@ Hi, I'm Rajadurai!
 	</a>
 </p>
 
+
+
+```
+💻 I'm as obsessed with data as a squirrel is with nuts - always collecting and hoarding information!
+📚 I have a Bachelors in Computer Science from the Annamalai University at India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning & Natural Language Processing
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, R
+🚩 Interested in Full Stack Data Science Projects
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+```
+
 <hr>
 
-<pre>
-💻 I am a Enthusiastic Learner
-📚 I'm Doing Bachelors in Computer Science-Data Science from the Annamalai University at TamilNadu
-📝 I have a strong interest in Data Science and Programming
-🌟 Main languages: Python
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
-</pre>
-<hr>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
 
 ## 🤝 Connect with me<br>
 <p >	
