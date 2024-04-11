@@ -103,9 +103,6 @@ Hi, I'm Rajadurai!
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" > Rajadurai's Stats</h3>
 
-<br/>
-<summary><b> Rajadurai's Stats</b></summary>
-<br/>
 <p align="center">
 	<a href="https://github.com/Rajadurai2">
 	<img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rajadurai2&show_icons=true" alt="Rajadurai2">
