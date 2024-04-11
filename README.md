@@ -21,15 +21,15 @@ Hi, I'm Rajadurai!
 
 
 ```
-💻 I'm as obsessed with data as a squirrel is with nuts - always collecting and hoarding information!
-📚 I have a Bachelors in Computer Science from the Annamalai University at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning & Natural Language Processing
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, R
-🚩 Interested in Full Stack Data Science Projects
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🖥️ I love data as much as squirrels love nuts - always gathering and storing information!
+🎓 Graduated with a Bachelor's in Computer Science from Annamalai University in India.
+✍️ Passionate about Data Science and Artificial Intelligence.
+🔬 Currently diving into Deep Learning, Machine Learning, and Natural Language Processing.
+🌱 Exploring Computer Vision and other Machine Learning topics.
+🌟 Proficient in Python and R.
+🚩 Interested in Full Stack Data Science Projects.
+💖 In a complicated relationship with Neural Networks.
+🎵 Enjoy metal, lofi, jazz, and soft music.
 ```
 
 <hr>
@@ -40,32 +40,17 @@ Hi, I'm Rajadurai!
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rajadurai-balamurugan-6227b51b0/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Rajadurai2">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yes_iam_bala?igsh=bjh4eWxhMTB4aGU0">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
-
-## 🤝 Connect with me<br>
-<p >	
-	👉👉👉👉👉<a href="mailto:rajabalasuguna@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/rajadurai-balamurugan-6227b51b0/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Rajadurai2"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/gjcvsugfk1234"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+      <a style="margin-left: 10px vertical-align: middle;" target="_blank" href="mailto:rajabalasuguna@gmail.com">
+				<img src="https://github.com/Rajadurai2/Rajadurai2/assets/106241420/a50020f3-5111-4981-a524-e69cccc51397" width ="50" height="50" ></a>
+		<a style="margin-left: 10px vertical-align: middle;" target="_blank" href="https://www.kaggle.com/gjcvsugfk1234">
+				<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" ></a>
+		 </div>
 </p>
 
 ## 🛠️ My Favorite Tools
