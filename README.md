@@ -35,21 +35,6 @@ Hi, I'm Rajadurai!
 <hr>
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Lets Connect </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rajadurai-balamurugan-6227b51b0/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Rajadurai2">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yes_iam_bala?igsh=bjh4eWxhMTB4aGU0">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      <a style="margin-left: 10px vertical-align: middle;" target="_blank" href="mailto:rajabalasuguna@gmail.com">
-				<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/gmail/gmail.svg" width ="50" height="50" ></a>
-		 </div>
-</p>
 
 ## 🛠️ My Favorite Tools
 <p align="center">
@@ -113,19 +98,13 @@ Hi, I'm Rajadurai!
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" > Rajadurai's Stats</h3>
 
 <br/>
-<summary><b>⚡ Rajadurai's Stats</b></summary>
+<summary><b> Rajadurai's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Rajadurai2">
@@ -145,6 +124,10 @@ Hi, I'm Rajadurai!
 </p>
 <br/>
 -->
+
+
+
+
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
@@ -181,5 +164,23 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
   </td>
   </tr>
 </table>
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Lets Connect </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rajadurai-balamurugan-6227b51b0/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Rajadurai2">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yes_iam_bala?igsh=bjh4eWxhMTB4aGU0">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      <a style="margin-left: 10px vertical-align: middle;" target="_blank" href="mailto:rajabalasuguna@gmail.com">
+				<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/gmail/gmail.svg" width ="50" height="50" ></a>
+		 </div>
+</p>
+
 
 ------
