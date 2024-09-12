@@ -18,7 +18,11 @@ Hi, I'm Rajadurai!
 	</a>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=790b7611fsk5ucohduvyemhe28b27xce22elq3rk17jj96ec&ep=v1_gifs_search&rid=giphy.gif&ct=g?w=740" />
+
+
+<img align="right" alt="Coding"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRrejV6ZHNlY3MzbXNldW0wazh6bDh0cDBjb3h3M2h3eWVrMndieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif?w=640" style="width: 360px;height: 190px; border-radius:80px;object-fit: cover;" />
+
+
 
 ```
 🎓 Graduated with a Bachelor's in Data Science from Annamalai University.
