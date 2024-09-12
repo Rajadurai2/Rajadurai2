@@ -18,13 +18,12 @@ Hi, I'm Rajadurai!
 	</a>
 </p>
 
-
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=790b7611fsk5ucohduvyemhe28b27xce22elq3rk17jj96ec&ep=v1_gifs_search&rid=giphy.gif&ct=g?w=740" />
 
 ```
-🖥️ I love data as much as squirrels love nuts - always gathering and storing information!
-🎓 Graduated with a Bachelor's in Computer Science from Annamalai University in India.
+🎓 Graduated with a Bachelor's in Data Science from Annamalai University.
 ✍️ Passionate about Data Science and Artificial Intelligence.
-🔬 Currently diving into Deep Learning, Machine Learning, and Natural Language Processing.
+🔬 Currently learning Deep Learning, Machine Learning, and GEN AI.
 🌱 Exploring Computer Vision and other Machine Learning topics.
 🌟 Proficient in Python and R.
 🚩 Interested in Full Stack Data Science Projects.
